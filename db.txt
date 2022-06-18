@@ -1,0 +1,4 @@
+id,nama,harga,deskripsi,kategori
+001,Ayam Goreng,100000,Ayam yang di goreng.,Makanan
+002,Es Teh,12000,Teh dingin.,Minuman
+3,asd,121,234sef,`
