@@ -1,30 +1,17 @@
 # Data-Entry
 
-Data-Entry adalah software desktop berbahasa C#. Software ini ditujukan untuk menjalankan fitur CRUD.
+Data Entry is C# language software that functions to run CRUD (Create, Read, Update, Delete) features on databases.
+
+## Integration
+This system uses C#
 
 
-
-## Integrasi
-Sistem ini menggunakan C#
-
-
-## Fitur Pengguna
+## User Features
 
 - CRUD
 - Database Connection
-
-
-
-
-## Fitur Sistem
-
-- C#
 - Microsoft SQL Server Management with SQLEXPRESS
 
-
-## Optimalisasi
-
--
 
 ## Run Locally
 
@@ -42,6 +29,6 @@ Clone the project
 ![App Screenshot](https://i.ibb.co/zsSJk8S/image.png)
 
 
-## Saran
+## Suggestion
 
-Untuk saran dan masukan sistem ini harap berkenan email ke valleryan1212@gmail.com
+For suggestions and input on this system, please email valleryan1212@gmail.com
